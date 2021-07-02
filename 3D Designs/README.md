@@ -6,11 +6,11 @@ All parts for my robot (apart from the electrical components) were custom design
 ## Screenshots
 Due to the amount of parts, I can't include screenshot of all parts but here are a select few:
 
-### Robot assembly
+### Robot assembly (`Full assembly.SLDASM`)
 ![Full Robot](images/full_robot.jpg "Full robot assembly")  
 _The space at the bottom of the Arduino mount is for the battery pack :)_
 
-### Limit Switch Trigger
+### Limit Switch Trigger (`Limit switch trigger (for top).SLDPRT`)
 
 #### Model
 ![switch_trigger_model](images/switch_trigger_model.jpg "switch_trigger_model")
@@ -18,5 +18,8 @@ _The space at the bottom of the Arduino mount is for the battery pack :)_
 ### Final product
 ![Switch Trigger](images/switch_trigger.jpg "Switch Trigger")
 
-### Wheel
+### Wheel (`Wheel (New).SLDPRT`)
 ![Wheel](images/wheel.jpg "Wheel")
+
+### Forklift (`Forklift - Front (v2).SLDPRT`)
+![Forklift](images/forklift.jpg "Forklift")
