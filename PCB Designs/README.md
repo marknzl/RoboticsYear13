@@ -4,7 +4,7 @@
 For my robot, I had designed and produced two PCBs - a main PCB shield that plugs into an Arduino Uno, and a tiny sensor board that just contains an LDR and an LED. The PCBs were fabricated using a monoFab SRM-20 desktop CNC mill.
 
 ## Main PCB
-![Shield Layout](images/shield_layout.png "Shield Layout")
+![Shield Layout](images/shield_layout.PNG "Shield Layout")
 
 This is the main circuit for my robot which is a shield that just plugs into an Arudino Uno.  
 
